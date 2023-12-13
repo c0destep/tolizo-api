@@ -4,15 +4,17 @@
 ![GitHub](https://img.shields.io/github/license/c0destep/tolizo-api?style=for-the-badge)
 [![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/c0destep/tolizo-api/blob/main/README.md)
 
-<img src="https://github.com/c0destep/tolizo-api/blob/main/docs/anime_girl_cash.png" alt="tô lizo anime girl">
+<img src="docs/anime_girl_cash.png" alt="tô lizo anime girl">
 
-> This project is about an idea for a financial control app, aimed at preventing you from running out of resources by the end of the month.
+> This project is about an idea for a financial control app, aimed at preventing you from running out of resources by
+> the end of the month.
 
 ## 💻 Prerequisites
 
 Before you begin, make sure you've met the following requirements:
 
-- Install PHP 7.4 or higher and these PHP extensions (which are installed and enabled by default in most PHP installations): json, zip;
+- Install PHP 7.4 or higher and these PHP extensions (which are installed and enabled by default in most PHP
+  installations): json, zip;
 - Install Composer, which is used to install PHP packages.
 
 ## 📫 Contributing to **Tô Lizo API**
@@ -50,5 +52,3 @@ Thanks to the following people who contributed to this project:
 ## 📝 License
 
 This project is under license. See the [LICENSE](LICENSE.txt) file for details.
-
-[⬆ Back to the top](#tolizo-api)
