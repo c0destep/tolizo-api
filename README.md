@@ -1,41 +1,28 @@
-# **PROJECT NAME**
+# **Tô Lizo API**
 
-![GitHub contributors](https://img.shields.io/github/contributors/**PROJECT LINK**?style=for-the-badge)
-![Packagist Downloads](https://img.shields.io/packagist/dm/**PROJECT LINK**?style=for-the-badge)
-![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/**PROJECT LINK**/php?label=PHP&logo=PHP&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/**PROJECT LINK**?style=for-the-badge)
-[![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/**PROJECT LINK**/blob/main/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/c0destep/tolizo-api?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/c0destep/tolizo-api?style=for-the-badge)
+[![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/c0destep/tolizo-api/blob/main/README.md)
 
-<!-- <img src="" alt=""> -->
+<img src="https://github.com/c0destep/tolizo-api/blob/main/docs/anime_girl_cash.png" alt="tô lizo anime girl">
 
-> **PROJECT DESCRIPTION**
+> This project is about an idea for a financial control app, aimed at preventing you from running out of resources by the end of the month.
 
 ## 💻 Prerequisites
 
 Before you begin, make sure you've met the following requirements:
 
-**PROJECT PREREQUISITES**
+- Install PHP 7.4 or higher and these PHP extensions (which are installed and enabled by default in most PHP installations): json, zip;
+- Install Composer, which is used to install PHP packages.
 
-## 🚀 Installing **PROJECT NAME**
+## 📫 Contributing to **Tô Lizo API**
 
-**PROJECT INSTALL**
-
-## ☕ Using **PROJECT NAME**
-
-To use **PROJECT NAME**, follow the example:
-
-```
-**PROJECT NAME**
-```
-
-## 📫 Contributing to **PROJECT NAME**
-
-To contribute to **PROJECT NAME**, follow these steps:
+To contribute to **Tô Lizo API**, follow these steps:
 
 1. Fork this repository.
-2. Create a branch: `git checkout -b <nome_branch>`.
-3. Make your changes and confirm them: `git commit -m '<mensagem_commit>'`
-4. Push to original branch: `git push origin <**PROJECT NAME**> / <local>`
+2. Create a branch: `git checkout -b <branch>`.
+3. Make your changes and confirm them: `git commit -m '<message>'`
+4. Push to original branch: `git push origin <feature> / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation
@@ -60,10 +47,8 @@ Thanks to the following people who contributed to this project:
 
 ## 😄 Be one of the contributors
 
-**PROJECT CONTRIBUTORS**
-
 ## 📝 License
 
 This project is under license. See the [LICENSE](LICENSE.txt) file for details.
 
-[⬆ Back to the top](#**PROJECT NAME**)
+[⬆ Back to the top](#tolizo-api)
