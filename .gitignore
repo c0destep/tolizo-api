@@ -17,3 +17,6 @@ gen
 
 ### PHP CS Fixer Files
 .php-cs-fixer.cache
+
+### Env
+.env
